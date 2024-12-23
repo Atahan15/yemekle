@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "473999048703",
+    "firebase_url": "https://yemekle-f215d-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "yemekle-f215d",
+    "storage_bucket": "yemekle-f215d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473999048703:android:d971c8c7924d8c35fd31ca",
+        "android_client_info": {
+          "package_name": "com.example.yemekle"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj5BQXk-sCOiYRDNgVrZMDM-0gMDLP-oM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
